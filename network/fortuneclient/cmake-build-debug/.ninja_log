@@ -1,0 +1,14 @@
+# ninja log v5
+10	145	7187303724501629	fortuneclient_autogen/timestamp	98f00ea5ae0f6d8c
+10	145	7187303724501629	fortuneclient_autogen/mocs_compilation.cpp	98f00ea5ae0f6d8c
+10	145	7187303724501629	C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneclient/cmake-build-debug/fortuneclient_autogen/timestamp	98f00ea5ae0f6d8c
+10	145	7187303724501629	C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneclient/cmake-build-debug/fortuneclient_autogen/mocs_compilation.cpp	98f00ea5ae0f6d8c
+435	1927	7187303234238408	CMakeFiles/fortuneclient.dir/fortuneclient_autogen/mocs_compilation.cpp.obj	2a845671d7939933
+150	1546	7187303738509759	CMakeFiles/fortuneclient.dir/main.cpp.obj	cb0a3663b84c88e2
+5155	5471	7187303776529021	fortuneclient.exe	8fe1808181c63e44
+147	5152	7187303774559010	CMakeFiles/fortuneclient.dir/client.cpp.obj	a92abc8af96d8b14
+4	124	7187306566759169	fortuneclient_autogen/timestamp	98f00ea5ae0f6d8c
+4	124	7187306566759169	fortuneclient_autogen/mocs_compilation.cpp	98f00ea5ae0f6d8c
+4	124	7187306566759169	C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneclient/cmake-build-debug/fortuneclient_autogen/timestamp	98f00ea5ae0f6d8c
+4	124	7187306566759169	C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneclient/cmake-build-debug/fortuneclient_autogen/mocs_compilation.cpp	98f00ea5ae0f6d8c
+126	519	7187306568711831	fortuneclient.exe	8bdc41a135f07c9f

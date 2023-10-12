@@ -1,0 +1,5 @@
+C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/CMakeFiles/fortuneserver.dir
+C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/CMakeFiles/fortuneserver_autogen_timestamp_deps.dir
+C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/CMakeFiles/fortuneserver_autogen.dir

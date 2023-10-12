@@ -1,0 +1,9 @@
+# ninja log v5
+1	410	7188188294351379	fortuneserver_autogen/timestamp	6700622773943b4
+1	410	7188188294351379	fortuneserver_autogen/mocs_compilation.cpp	6700622773943b4
+1	410	7188188294351379	C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/fortuneserver_autogen/timestamp	6700622773943b4
+1	410	7188188294351379	C:/Users/30205/Desktop/Clion/Qt/examples/network/fortuneserver/cmake-build-debug/fortuneserver_autogen/mocs_compilation.cpp	6700622773943b4
+411	1829	7188188309244025	CMakeFiles/fortuneserver.dir/fortuneserver_autogen/mocs_compilation.cpp.obj	a098ced98f2a5329
+413	1912	7188188310074607	CMakeFiles/fortuneserver.dir/main.cpp.obj	8dc3a3568297b330
+417	5685	7188188347786582	CMakeFiles/fortuneserver.dir/server.cpp.obj	b6016dda1869eca8
+5689	6368	7188188351226282	fortuneserver.exe	1aed10ced277fdd2
